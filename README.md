@@ -6,7 +6,8 @@ Ceci est un projet maven intégré du web
 <version>0.0.1-SNAPSHOT</version>
 <packaging>war</packaging>
 <name>Project_JPA</name>
-<description>Project maven & web</description>
+<des![FWNc5TPXoAIn-bf-removebg-preview](https://user-images.githubusercontent.com/83038351/220445283-205b7dd1-3ef8-46c6-b7e7-f7cbe13f3d90.png)
+cription>Project maven & web</description>
 
 
 Tout d'abord, nous avons ajouté toutes les dépendances nécessaire au bon fonctionnement du projet dans le fichier "pom.xml".
